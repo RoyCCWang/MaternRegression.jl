@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wang"
+  given-names: "Roy Chih Chung"
+  orcid: "https://orcid.org/0000-0002-1391-4536"
+title: "RoyCCWang/MaternRegression.jl"
+version: 0.1.0
+date-released: 2024-04-06
+url: "https://github.com/RoyCCWang/MaternRegression.jl"
